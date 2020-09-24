@@ -1,0 +1,15 @@
+current directory: C:/Users/Ho Tong Fatt/Documents/jekyll/vendor/bundle/jruby/2.3.0/gems/commonmarker-0.17.13/ext/commonmarker
+C:/jruby-9.1.17.0/bin/jruby.exe -r ./siteconf20200924-11912-156l08d.rb extconf.rb
+creating Makefile
+
+current directory: C:/Users/Ho Tong Fatt/Documents/jekyll/vendor/bundle/jruby/2.3.0/gems/commonmarker-0.17.13/ext/commonmarker
+make "DESTDIR=" clean
+'make' is not recognized as an internal or external command,
+operable program or batch file.
+
+current directory: C:/Users/Ho Tong Fatt/Documents/jekyll/vendor/bundle/jruby/2.3.0/gems/commonmarker-0.17.13/ext/commonmarker
+make "DESTDIR="
+'make' is not recognized as an internal or external command,
+operable program or batch file.
+
+make failed, exit code 1
