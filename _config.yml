@@ -5,7 +5,7 @@ collections:
 defaults:
   - scope:
       path: ""
-      type: "authors"
+      type: "_authors"
     values:
       layout: "author"
   - scope:
